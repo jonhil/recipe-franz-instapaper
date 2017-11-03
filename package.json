@@ -1,0 +1,12 @@
+{
+  "id": "Instapaper",
+  "name": "Instapaper",
+  "version": "0.0.2",
+  "description": "instapaper webclient",
+  "main": "index.js",
+  "author": "Jonas Hilke <jonashilke@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://www.instapaper.com/u"
+  }
+}
